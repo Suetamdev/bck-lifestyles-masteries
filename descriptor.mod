@@ -4,4 +4,5 @@ tags={
 	"Character Interactions"
 }
 name="BCK - Lifestyles Masteries"
-supported_version="1.20.1.2"
+supported_version="1.20.*"
+remote_file_id="3824994856"
