@@ -1,0 +1,28 @@
+﻿l_german:
+ # Decision Titles and Descriptions
+ pursue_mastery_decision:0 "Meisterschaft anstreben"
+ pursue_mastery_decision_desc:0 "Nach Jahrzehnten der Hingabe, der Prüfungen und unermüdlicher Disziplin habt Ihr den absoluten Höhepunkt Eures Handwerks erreicht. Im reifen Alter muss ein wahrer Meister seine höchste Berufung erkennen. Doch das Leben lässt nur eine wahre Meisterschaft zu – wählt Euren Weg weise."
+ pursue_mastery_decision_tooltip:0 "Erklärt Eure lebenslange Hingabe und erhaltet ein Meister-Merkmal."
+ pursue_mastery_age_requirement:0 "Ihr seid mindestens 40 Jahre alt"
+ pursue_mastery_decision_confirm:0 "Ich werde meine Meisterschaft beanspruchen"
+
+ # Decision Interface
+ PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON:0 "Meisterschaftsschwerpunkt wählen"
+ master_learning_option:0 "Meisterschaft der Gelehrsamkeit anstreben"
+ master_learning_option_tooltip:0 "Ihr werdet Euch der ewigen Suche nach Wissen widmen und nach wahrer Erleuchtung streben. Auf diesem Weg erhaltet Ihr das Merkmal #HIGH Meister der Gelehrsamkeit#!."
+ master_learning_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Gelehrsamkeit"
+ master_intrigue_option:0 "Meisterschaft der Ränkespiele anstreben"
+ master_intrigue_option_tooltip:0 "Ihr werdet die subtilen Künste des Handelns im Verborgenen meistern – mit Täuschung, Geheimhaltung und Schattennetzwerken als Waffen – und erhaltet das Merkmal #HIGH Meister der Ränkespiele#!."
+ master_intrigue_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Ränkespiele"
+ master_diplomacy_option:0 "Meisterschaft der Diplomatie anstreben"
+ master_diplomacy_option_tooltip:0 "Ihr werdet Euch in höfischer Etikette, Staatskunst, Überzeugung und Führung schulen – Fähigkeiten, die Euch das Merkmal #HIGH Meister der Diplomatie#! verleihen."
+ master_diplomacy_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Diplomatie"
+ master_martial_option:0 "Meisterschaft der Kriegskunst anstreben"
+ master_martial_option_tooltip:0 "Ihr werdet die Reiche der Strategie und des Geistes bezwingen und zugleich die Wut und das Chaos des Schlachtfelds beherrschen, wodurch Ihr zum #HIGH Meister der Kriegskunst#! werdet."
+ master_martial_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Kriegsführung"
+ master_stewardship_option:0 "Meisterschaft der Verwaltung anstreben"
+ master_stewardship_option_tooltip:0 "Ihr werdet die Verwaltung Eurer Domäne zu Eurem Handwerk machen, dafür sorgen, dass Gold und Handel fließen und Eure Domäne gedeiht, und so das Merkmal #HIGH Meister der Verwaltung#! erhalten."
+ master_stewardship_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Verwaltung"
+ master_wandering_option:0 "Meisterschaft des Wanderns anstreben"
+ master_wandering_option_tooltip:0 "Ihr werdet in ferne Länder reisen, um fremde Kulturen und Orte kennenzulernen, Eure Kriegskunst zu verbessern und Euer Wissen über die Welt zu erweitern. Dadurch erhaltet Ihr das Merkmal #HIGH Meister des Wanderns#!."
+ master_wandering_option_not_has_perks:0 "Ihr habt nicht mindestens #HIGH 20#! Vorteile im Lebensstil Reisen"

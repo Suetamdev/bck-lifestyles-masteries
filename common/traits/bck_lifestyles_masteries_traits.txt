@@ -1,0 +1,169 @@
+﻿master_learning = {
+    category = lifestyle
+    name = trait_master_learning
+
+    learning = 6
+    fertility = 0.2
+    life_expectancy = 10
+    health = 0.2
+    general_opinion = 20
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_learning_desc
+            }
+            desc = trait_master_learning_character_desc
+        }
+    }
+}
+
+master_intrigue = {
+    category = lifestyle
+    name = trait_master_intrigue
+
+    intrigue = 10
+    dread_baseline_add = 25
+    intimidated_vassal_tax_contribution_mult = 0.2
+    hostile_scheme_power_add = 20
+    general_opinion = 10
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_intrigue_desc
+            }
+            desc = trait_master_intrigue_character_desc
+        }
+    }
+}
+
+master_diplomacy = {
+    category = lifestyle
+    name = trait_master_diplomacy
+
+    diplomacy = 8
+    diplomatic_range_mult = 2
+    opinion_of_different_faith_liege = 20
+    direct_vassal_opinion = 10
+    general_opinion = 15
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_diplomacy_desc
+            }
+            desc = trait_master_diplomacy_character_desc
+        }
+    }
+}
+
+master_martial = {
+    category = lifestyle
+    name = trait_master_martial
+
+    martial = 6
+    prowess = 10
+    monthly_war_income_mult = 0.25
+    knight_limit = 8
+    general_opinion = 20
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_martial_desc
+            }
+            desc = trait_master_martial_character_desc
+        }
+    }
+}
+
+master_stewardship = {
+    category = lifestyle
+    name = trait_master_stewardship
+
+    stewardship = 8
+    monthly_income_mult = 0.2
+    vassal_tax_mult = 0.2
+    long_reign_bonus_mult = 0.4
+    general_opinion = 20
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_stewardship_desc
+            }
+            desc = trait_master_stewardship_character_desc
+        }
+    }
+}
+
+master_wandering = {
+    category = lifestyle
+    name = trait_master_wandering
+
+    diplomacy = 4
+    learning = 4
+    prowess = 5
+    monthly_lifestyle_xp_gain_mult = 0.1
+    travel_speed = 0.25
+    travel_safety = 10
+    general_opinion = 15
+
+    minimum_age = 40
+    random_creation = 1
+    ruler_designer_cost = 275
+    shown_in_ruler_designer = yes
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_master_wandering_desc
+            }
+            desc = trait_master_wandering_character_desc
+        }
+    }
+}

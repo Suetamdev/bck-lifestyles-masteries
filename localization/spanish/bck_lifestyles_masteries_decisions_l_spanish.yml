@@ -1,0 +1,28 @@
+﻿l_spanish:
+ # Decision Titles and Descriptions
+ pursue_mastery_decision:0 "Perseguir la maestría"
+ pursue_mastery_decision_desc:0 "Tras décadas de dedicación, pruebas y disciplina incesante, has alcanzado la cima absoluta de tu oficio. Al llegar a la madurez, un verdadero maestro debe reconocer su vocación definitiva. Sin embargo, la vida solo permite alcanzar una verdadera maestría: elige tu camino con prudencia."
+ pursue_mastery_decision_tooltip:0 "Declara tu dedicación de por vida y obtén un rasgo de maestro."
+ pursue_mastery_age_requirement:0 "Tienes al menos 40 años"
+ pursue_mastery_decision_confirm:0 "Reclamaré mi maestría"
+
+ # Decision Interface
+ PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON:0 "Elegir especialidad de maestría"
+ master_learning_option:0 "Perseguir la maestría de la erudición"
+ master_learning_option_tooltip:0 "Te dedicarás a la búsqueda eterna del conocimiento, esforzándote por alcanzar la verdadera iluminación. Tu viaje te otorgará el rasgo #HIGH Maestro de la erudición#!."
+ master_learning_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida de Erudición"
+ master_intrigue_option:0 "Perseguir la maestría de la intriga"
+ master_intrigue_option_tooltip:0 "Dominarás las sutiles artes de actuar desde las sombras, usando el engaño, el secreto y las redes clandestinas como armas, y obtendrás el rasgo #HIGH Maestro de la intriga#!."
+ master_intrigue_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida de Intriga"
+ master_diplomacy_option:0 "Perseguir la maestría de la diplomacia"
+ master_diplomacy_option_tooltip:0 "Te instruirás en etiqueta cortesana, política, persuasión y liderazgo: habilidades que te otorgarán el rasgo #HIGH Maestro de la diplomacia#!."
+ master_diplomacy_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida de Diplomacia"
+ master_martial_option:0 "Perseguir la maestría de la guerra"
+ master_martial_option_tooltip:0 "Dominarás los ámbitos de la estrategia y la mente, al tiempo que manejas la furia y el caos del campo de batalla, convirtiéndote en un #HIGH Maestro de la guerra#!."
+ master_martial_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida Marcial"
+ master_stewardship_option:0 "Perseguir la maestría de la administración"
+ master_stewardship_option_tooltip:0 "Harás de la gestión del dominio tu oficio, asegurándote de que el oro y el comercio fluyan y tu dominio prospere, lo que te otorgará el rasgo #HIGH Maestro de la administración#!."
+ master_stewardship_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida de Administración"
+ master_wandering_option:0 "Perseguir la maestría de la vida errante"
+ master_wandering_option_tooltip:0 "Viajarás a tierras lejanas para conocer culturas y lugares extranjeros, mejorar tus proezas marciales y ampliar tus conocimientos del mundo, obteniendo el rasgo #HIGH Maestro de la vida errante#!."
+ master_wandering_option_not_has_perks:0 "No tienes al menos #HIGH 20#! ventajas en el estilo de vida de Vida errante"

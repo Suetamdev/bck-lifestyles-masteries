@@ -1,0 +1,30 @@
+﻿l_russian:
+ # Master of Learning
+ trait_master_learning:0 "Мастер учености"
+ trait_master_learning_desc:0 "Мастер познания, посвятивший жизнь стремлению к знаниям и наконец достигший истинного просветления. Познанию в этом мире нет предела."
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] посвящает всю свою жизнь стремлению к знаниям и в конце концов достигает истинного просветления. Познанию в этом мире нет предела, и [ROOT.GetCharacter.GetFirstNameNoTooltip] никогда не прекратит поиск истины."
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "Мастер интриг"
+ trait_master_intrigue_desc:0 "Мастер манипуляций, понимающий ценность тайн, обмана и влияния. Любую проблему можно решить, дернув за нужную ниточку или перерезав нужный канат."
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] — мастер интриг, манипулирующий теми, кто облечен властью, и влияющий на сами основы государства. Как дворяне, так и простолюдины принимают [ROOT.GetCharacter.GetHerHis] интриги за божественный промысел или перст судьбы."
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "Мастер дипломатии"
+ trait_master_diplomacy_desc:0 "Мастер дипломатии, обошедший залы множества дворов и находивший общий язык с людьми любого положения. Весь мир открыт перед таким человеком."
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] побывает во множестве дворов и проводит время с дворянами, крестьянами, торговцами и монархами как в своих землях, так и за пределами [ROOT.GetCharacter.GetHerHis] государства. Весь мир открыт перед [ROOT.GetCharacter.GetFirstNameNoTooltip]."
+
+ # Master of Warfare
+ trait_master_martial:0 "Мастер военного дела"
+ trait_master_martial_desc:0 "Ветеран бесчисленных битв, чувствующий себя на поле боя как дома. Война стала для него старым знакомым, сколько бы времени ни прошло в разлуке."
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] проводит почти всю жизнь на поле боя. Для [ROOT.GetCharacter.GetHerHim] война — как старый друг, и возвращение к сражениям ощущается так, будто [ROOT.GetCharacter.GetSheHe] никогда и не уходил."
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "Мастер управления"
+ trait_master_stewardship_desc:0 "Мастер богатства и администрации, видящий возможности в каждой монете. При столь умелом управлении казна превращается в реку золота, которая никогда не иссякает."
+ trait_master_stewardship_character_desc:0 "От стоимости яйца до экономики всего королевства — [ROOT.GetCharacter.GetFirstNameNoTooltip] знает, как заставить ценность каждой монеты работать. Под [ROOT.GetCharacter.GetHerHis] мудрым управлением казна превратилась в золотую реку, которая течет непрерывно."
+
+ # Master of Wandering
+ trait_master_wandering:0 "Мастер странствий"
+ trait_master_wandering_desc:0 "Бывалый странник, исходивший дальние земли, перенявший мудрость чужих культур и овладевший искусством путешествий. Каждое путешествие дает новый урок, и любая дорога ведет к очередному открытию."
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] путешествует далеко за пределами [ROOT.GetCharacter.GetHerHis] родины, черпая мудрость дальних земель и их жителей. Никакой путь не кажется слишком длинным, никакая цель — недостижимой, и ни одно путешествие не лишено смысла."

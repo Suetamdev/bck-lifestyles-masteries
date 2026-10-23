@@ -1,0 +1,30 @@
+﻿l_english:
+ # Master of Learning
+ trait_master_learning:0 "Master of Scholarship"
+ trait_master_learning_desc:0 "A master of learning who has spent a lifetime pursuing knowledge and has finally attained true enlightenment. There is no end to what can be learned in this world."
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has spent a lifetime pursuing knowledge and has finally attained true enlightenment. There is no end to what can be learned in this world, and [ROOT.GetCharacter.GetFirstNameNoTooltip] will never cease the pursuit of knowledge."
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "Master of Intrigue"
+ trait_master_intrigue_desc:0 "A master manipulator who understands the value of secrecy, deception, and influence. Every problem can be solved by pulling the right string or cutting the right thread."
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a master of intrigue, manipulating those who wield power and influencing the very foundations of the realm. Nobles and commoners alike mistake [ROOT.GetCharacter.GetHerHis] machinations for divine providence or the workings of fate."
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "Master of Diplomacy"
+ trait_master_diplomacy_desc:0 "A master diplomat who has walked the halls of countless courts and mingled with people from every station in life. The whole world lies open to such a person."
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has visited countless courts and spent time with nobles, peasants, merchants, and monarchs, both within and beyond [ROOT.GetCharacter.GetHerHis] realm. The whole world lies open before [ROOT.GetCharacter.GetFirstNameNoTooltip]."
+
+ # Master of Warfare
+ trait_master_martial:0 "Master of Warfare"
+ trait_master_martial_desc:0 "A veteran of countless battles who feels at home on the battlefield. War has become as familiar as an old friend, no matter how long the separation."
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has spent nearly an entire lifetime on the battlefield. To [ROOT.GetCharacter.GetHerHim], warfare is like an old friend, and returning to battle feels as though [ROOT.GetCharacter.GetSheHe] never left."
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "Master of Stewardship"
+ trait_master_stewardship_desc:0 "A master of wealth and administration who sees opportunity in every coin. Under such careful management, a treasury becomes a river of gold that never ceases to flow."
+ trait_master_stewardship_character_desc:0 "From the price of an egg to the entire economy of the kingdom, [ROOT.GetCharacter.GetFirstNameNoTooltip] knows how to make every coin count. Under [ROOT.GetCharacter.GetHerHis] careful stewardship, the treasury has become a river of gold that never stops flowing."
+
+ # Master of Wandering
+ trait_master_wandering:0 "Master of Wandering"
+ trait_master_wandering_desc:0 "A seasoned wanderer who has traversed distant lands, learned from foreign cultures, and mastered the art of travel. Every journey offers a new lesson, and every road leads to another discovery."
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has traveled far beyond the borders of [ROOT.GetCharacter.GetHerHis] homeland, gaining wisdom from distant lands and their inhabitants. No road is too long, no destination too distant, and no journey without meaning."

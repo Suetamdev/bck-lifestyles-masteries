@@ -1,0 +1,28 @@
+﻿l_french:
+ # Decision Titles and Descriptions
+ pursue_mastery_decision:0 "Poursuivre la maîtrise"
+ pursue_mastery_decision_desc:0 "Après des décennies de dévouement, d'épreuves et de discipline sans relâche, vous avez atteint le sommet absolu de votre art. Ayant atteint l'âge mûr, un véritable maître doit reconnaître sa vocation ultime. Cependant, la vie ne permet qu'une seule véritable maîtrise : choisissez judicieusement votre voie."
+ pursue_mastery_decision_tooltip:0 "Déclarez votre dévouement de toute une vie et obtenez un trait de maître."
+ pursue_mastery_age_requirement:0 "Vous avez au moins 40 ans"
+ pursue_mastery_decision_confirm:0 "Je vais revendiquer ma maîtrise"
+
+ # Decision Interface
+ PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON:0 "Choisir une spécialité de maître"
+ master_learning_option:0 "Maîtriser l'érudition"
+ master_learning_option_tooltip:0 "Vous vous consacrerez à la quête éternelle du savoir et chercherez à atteindre la véritable illumination. Votre parcours vous accordera le trait #HIGH Maître de l'érudition#!."
+ master_learning_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Érudition"
+ master_intrigue_option:0 "Maîtriser l'intrigue"
+ master_intrigue_option_tooltip:0 "Vous maîtriserez les arts subtils de l'action dans l'ombre, avec la tromperie, le secret et les réseaux clandestins pour armes, ce qui vous accordera le trait #HIGH Maître de l'intrigue#!."
+ master_intrigue_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Intrigue"
+ master_diplomacy_option:0 "Maîtriser la diplomatie"
+ master_diplomacy_option_tooltip:0 "Vous vous instruirez dans l'étiquette de cour, l'art de gouverner, la persuasion et le leadership ; ces aptitudes vous accorderont le trait #HIGH Maître de la diplomatie#!."
+ master_diplomacy_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Diplomatie"
+ master_martial_option:0 "Maîtriser l'art de la guerre"
+ master_martial_option_tooltip:0 "Vous dominerez les domaines de la stratégie et de l'esprit tout en maniant la fureur et le chaos du champ de bataille, devenant ainsi un #HIGH Maître de la guerre#!."
+ master_martial_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Martial"
+ master_stewardship_option:0 "Maîtriser l'intendance"
+ master_stewardship_option_tooltip:0 "Vous ferez de la gestion du domaine votre art, veillant à ce que l'or et le commerce prospèrent et que votre domaine s'épanouisse. Vous obtiendrez le trait #HIGH Maître de l'intendance#!."
+ master_stewardship_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Intendance"
+ master_wandering_option:0 "Maîtriser l'errance"
+ master_wandering_option_tooltip:0 "Vous voyagerez vers des contrées lointaines pour découvrir des cultures et des lieux étrangers, améliorant vos prouesses martiales et votre connaissance du monde. Vous obtiendrez le trait #HIGH Maître de l'errance#!."
+ master_wandering_option_not_has_perks:0 "Vous n'avez pas au moins #HIGH 20#! avantages dans le mode de vie Errance"

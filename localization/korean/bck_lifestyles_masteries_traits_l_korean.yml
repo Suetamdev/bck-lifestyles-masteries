@@ -1,0 +1,30 @@
+﻿l_korean:
+ # Master of Learning
+ trait_master_learning:0 "학식의 대가"
+ trait_master_learning_desc:0 "지식을 탐구하는 데 평생을 바쳐 마침내 진정한 깨달음을 얻은 학문의 대가입니다. 이 세상에서 배울 수 있는 것에는 끝이 없습니다."
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 평생을 지식 탐구에 바쳤으며 마침내 진정한 깨달음을 얻었습니다. 세상에서 배울 수 있는 것에는 끝이 없으며, [ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 지식 탐구를 결코 멈추지 않을 것입니다."
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "계략의 대가"
+ trait_master_intrigue_desc:0 "비밀, 기만, 영향력의 가치를 이해하는 책략의 대가입니다. 알맞은 줄을 당기거나 잘라내는 것만으로 모든 문제를 해결할 수 있습니다."
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 계략의 대가로, 권력을 쥔 자들을 조종하고 제국의 근간에 영향력을 행사합니다. 귀족과 평민 모두 [ROOT.GetCharacter.GetHerHis] 책략을 신의 섭리나 운명의 장난으로 착각합니다."
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "외교의 대가"
+ trait_master_diplomacy_desc:0 "수많은 궁정을 누비며 모든 신분의 사람들과 교류해 온 외교의 대가입니다. 온 세상이 이런 사람에게 열려 있습니다."
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 [ROOT.GetCharacter.GetHerHis] 영지 안팎에서 수많은 궁정을 방문하고 귀족, 평민, 상인, 군주들과 시간을 보내왔습니다. 온 세상이 [ROOT.GetCharacter.GetFirstNameNoTooltip] 앞에 펼쳐져 있습니다."
+
+ # Master of Warfare
+ trait_master_martial:0 "군사의 대가"
+ trait_master_martial_desc:0 "수많은 전장을 누비며 전장을 집처럼 느끼는 베테랑입니다. 아무리 오랫동안 떨어져 있었어도 전쟁은 오랜 친구처럼 익숙합니다."
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 거의 평생을 전장에서 보냈습니다. [ROOT.GetCharacter.GetHerHim]에게 전쟁은 오랜 친구와도 같아서, 전장으로 돌아가는 것은 마치 한 번도 떠난 적이 없었던 것처럼 느껴집니다."
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "관리의 대가"
+ trait_master_stewardship_desc:0 "모든 동전에서 기회를 찾아내는 부와 행정의 대가입니다. 이처럼 세심한 관리 아래 국고는 결코 끊이지 않는 금빛 강물이 됩니다."
+ trait_master_stewardship_character_desc:0 "계란 하나값부터 왕국 전체의 경제에 이르기까지, [ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 모든 동전을 가치 있게 쓰는 법을 압니다. [ROOT.GetCharacter.GetHerHis] 세심한 관리 덕분에 국고는 결코 마르지 않는 금빛 강물이 되었습니다."
+
+ # Master of Wandering
+ trait_master_wandering:0 "방랑의 대가"
+ trait_master_wandering_desc:0 "먼 땅을 거닐며 이국 문화를 배우고 여행의 기술을 습득한 노련한 방랑자입니다. 모든 여정은 새로운 가르침을 주고, 모든 길은 또 다른 발견으로 이어집니다."
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip](은)는 [ROOT.GetCharacter.GetHerHis] 고향 국경을 넘어 멀리 여행하며 먼 땅과 그 주민들에게서 지혜를 얻었습니다. 아무리 먼 길이라도 너무 길지 않고, 어떤 목적지도 너무 멀지 않으며, 의미 없는 여정이란 없습니다."

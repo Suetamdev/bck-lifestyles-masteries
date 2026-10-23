@@ -1,0 +1,30 @@
+﻿l_polish:
+ # Master of Learning
+ trait_master_learning:0 "Mistrz nauki"
+ trait_master_learning_desc:0 "Mistrz wiedzy, który poświęcił życie na zgłębianie tajników świata i ostatecznie osiągnął prawdziwe oświecenie. Nauce nie ma końca."
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] poświęciło życie na zgłębianie wiedzy i ostatecznie osiągnęło prawdziwe oświecenie. Nauce na tym świecie nie ma końca, a [ROOT.GetCharacter.GetFirstNameNoTooltip] nigdy nie zaprzestanie swej dążności do wiedzy."
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "Mistrz intrygi"
+ trait_master_intrigue_desc:0 "Mistrz manipulacji, który rozumie wartość tajemnicy, podstępu i wpływów. Każdy problem można rozwiązać, pociągając za odpowiednią sznurówkę lub przecinając właściwą nitkę."
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] to mistrz intrygi, manipulujący tymi, którzy sprawują władzę, i wpływający na same fundamenty królestwa. Zarówno szlachta, jak i pospólstwo biorą [ROOT.GetCharacter.GetHerHis] machinacje za opatrzność boską lub zrządzenie losu."
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "Mistrz dyplomacji"
+ trait_master_diplomacy_desc:0 "Mistrz dyplomacji, który odwiedził niezliczone dwory i obracał się wśród ludzi każdego stanu. Cały świat stoi otworem przed taką osobą."
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] odwiedziło niezliczone dwory i spędziło czas ze szlachtą, chłopstwem, kupcami i monarchami, zarówno w swoim władztwie, jak i poza granicami [ROOT.GetCharacter.GetHerHis] królestwa. Cały świat stoi otworem przed [ROOT.GetCharacter.GetFirstNameNoTooltip]."
+
+ # Master of Warfare
+ trait_master_martial:0 "Mistrz wojskowości"
+ trait_master_martial_desc:0 "Weteran niezliczonych bitew, który na polu walki czuje się jak w domu. Wojna stała się dla niego jak stary przyjaciel, niezależnie od długości rozłąki."
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] spędziło niemal całe życie na polu bitwy. Dla [ROOT.GetCharacter.GetHerHim] wojna jest jak stary przyjaciel, a powrót do walki sprawia wrażenie, jakby [ROOT.GetCharacter.GetSheHe] nigdy jej nie opuściło."
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "Mistrz zarządzania"
+ trait_master_stewardship_desc:0 "Mistrz bogactwa i administracji, który w każdej monecie widzi szansę. Pod tak czujnym zarządem skarbiec staje się rzeką złota, która nigdy nie przestaje płynąć."
+ trait_master_stewardship_character_desc:0 "Od ceny jajka po całą gospodarkę królestwa, [ROOT.GetCharacter.GetFirstNameNoTooltip] wie, jak sprawić, by każda moneta się liczyła. Pod [ROOT.GetCharacter.GetHerHis] troskliwym zarządem skarbiec stał się rzeką złota, która nigdy nie przestaje płynąć."
+
+ # Master of Wandering
+ trait_master_wandering:0 "Mistrz wędrówki"
+ trait_master_wandering_desc:0 "Doświadczony wędrowiec, który przemierzył odległe krainy, uczył się od obcych kultur i opanował sztukę podróżowania. Każda wyprawa przynosi nową lekcję, a każda droga prowadzi do kolejnego odkrycia."
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] podróżowało daleko poza granice [ROOT.GetCharacter.GetHerHis] ojczyzny, czerpiąc mądrość z odległych krain i od ich mieszkańców. Żadna droga nie jest zbyt długa, żaden cel zbyt odległy, a żadna podróż pozbawiona znaczenia."

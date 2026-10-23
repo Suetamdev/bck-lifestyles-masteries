@@ -1,0 +1,28 @@
+﻿l_polish:
+ # Decision Titles and Descriptions
+ pursue_mastery_decision:0 "Dążenie do mistrzostwa"
+ pursue_mastery_decision_desc:0 "Po dziesięcioleciach poświęcenia, prób i nieustannej dyscypliny osiągnęło się absolutny szczyt swoich umiejętności. W dojrzałym wieku prawdziwy mistrz musi rozpoznać swoje ostateczne powołanie. Życie pozwala jednak osiągnąć prawdziwe mistrzostwo tylko w jednej dziedzinie — wybierz swą ścieżkę mądrze."
+ pursue_mastery_decision_tooltip:0 "Zadeklaruj dożywotnie oddanie i zdobądź cechę mistrza."
+ pursue_mastery_age_requirement:0 "Masz co najmniej 40 lat"
+ pursue_mastery_decision_confirm:0 "Zdobędę mistrzostwo"
+
+ # Decision Interface
+ PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON:0 "Wybierz dziedzinę mistrzostwa"
+ master_learning_option:0 "Dąż do mistrzostwa nauki"
+ master_learning_option_tooltip:0 "Poświęcisz się nieustannemu poszukiwaniu wiedzy, dążąc do prawdziwego oświecenia. Ta droga zapewni ci cechę #HIGH Mistrza nauki#!."
+ master_learning_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Nauka"
+ master_intrigue_option:0 "Dąż do mistrzostwa intrygi"
+ master_intrigue_option_tooltip:0 "Opanujesz subtelną sztukę działania w cieniu, posługując się podstępem, tajemnicą i siatkami wpływów, dzięki czemu zdobędziesz cechę #HIGH Mistrza intrygi#!."
+ master_intrigue_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Intryga"
+ master_diplomacy_option:0 "Dąż do mistrzostwa dyplomacji"
+ master_diplomacy_option_tooltip:0 "Zgłębisz dworską etykietę, sztukę rządzenia, perswazję i przywództwo — umiejętności, które zapewnią ci cechę #HIGH Mistrza dyplomacji#!."
+ master_diplomacy_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Dyplomacja"
+ master_martial_option:0 "Dąż do mistrzostwa wojskowości"
+ master_martial_option_tooltip:0 "Zawładniesz dziedzinami strategii i umysłu, jednocześnie władając furią i chaosem pola bitwy, zdobywając cechę #HIGH Mistrza wojskowości#!."
+ master_martial_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Wojskowość"
+ master_stewardship_option:0 "Dąż do mistrzostwa zarządzania"
+ master_stewardship_option_tooltip:0 "Uczynisz zarządzanie domeną swoim rzemiosłem, dbając o przepływ złota i handlu oraz rozkwit domeny. Dzięki temu zdobędziesz cechę #HIGH Mistrza zarządzania#!."
+ master_stewardship_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Zarządzanie"
+ master_wandering_option:0 "Dąż do mistrzostwa wędrowania"
+ master_wandering_option_tooltip:0 "Wyruszysz w dalekie krainy, by poznać obce kultury i miejsca, poprawić swoje zdolności wojskowe oraz poszerzyć wiedzę o świecie, zdobywając cechę #HIGH Mistrza wędrowania#!."
+ master_wandering_option_not_has_perks:0 "Nie masz co najmniej #HIGH 20#! atutów w stylu życia Wędrowanie"

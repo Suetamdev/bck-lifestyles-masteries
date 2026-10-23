@@ -1,0 +1,30 @@
+﻿l_simp_chinese:
+ # Master of Learning
+ trait_master_learning:0 "学术大师"
+ trait_master_learning_desc:0 "一位终身追求知识并最终获得真正开悟的学术大师。世间知识无穷无尽。"
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]倾其一生追求知识，并最终获得了真正的开悟。世间的求知之旅永无止境，而[ROOT.GetCharacter.GetFirstNameNoTooltip]也绝不会停止对知识的探寻。"
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "谋略大师"
+ trait_master_intrigue_desc:0 "一位精通操纵的强者，深知保密、欺瞒与影响力的价值。任何难题都能通过拉对绳索或割断线头来解决。"
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]是一位谋略大师，擅长操纵那些掌权者，并影响着整个国家的基石。无论是贵族还是平民，都会将[ROOT.GetCharacter.GetHerHis]阴谋误认为是天意或命运的安排。"
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "外交大师"
+ trait_master_diplomacy_desc:0 "一位穿梭于无数宫廷、与各阶层人士交好的外交大师。整个世界都向这样的人敞开。"
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]曾出访无数宫廷，并在[ROOT.GetCharacter.GetHerHis]领地内外与贵族、平民、商人及君主打交道。整个世界都在[ROOT.GetCharacter.GetFirstNameNoTooltip]面前敞开。"
+
+ # Master of Warfare
+ trait_master_martial:0 "军事大师"
+ trait_master_martial_desc:0 "一位身经百战、视战场如家园的老兵。无论分别多久，战争都如同老友般熟悉。"
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]几乎将一生都奉献交交给了战场。对[ROOT.GetCharacter.GetHerHim]而言，战争就像是一位老友，重返战场的感觉就仿佛[ROOT.GetCharacter.GetSheHe]从未离开过一样。"
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "管理大师"
+ trait_master_stewardship_desc:0 "一位财富与行政管理的大师，能在每一枚硬币中看到机遇。在如此精细的管理下，国库将化为永不枯竭的金河。"
+ trait_master_stewardship_character_desc:0 "从鸡蛋的价格到整个王国的经济，[ROOT.GetCharacter.GetFirstNameNoTooltip]都知道如何精打细算。在[ROOT.GetCharacter.GetHerHis]精明理财下，国库已然变成了一条源源不断的金河。"
+
+ # Master of Wandering
+ trait_master_wandering:0 "漫游大师"
+ trait_master_wandering_desc:0 "一位游历异域、汲取他乡文化并精通旅途之道的资深漫游者。每一次旅程都会带来新的教益，每一条道路都会通向新的发现。"
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]远游至[ROOT.GetCharacter.GetHerHis]故土之外，从遥远的大地及其居民身上汲取智慧。没有过长的道路，没有过远的目的地，也没有毫无意义的旅程。"

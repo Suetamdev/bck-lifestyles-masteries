@@ -1,0 +1,28 @@
+﻿l_korean:
+ # Decision Titles and Descriptions
+ pursue_mastery_decision:0 "대가의 경지 추구"
+ pursue_mastery_decision_desc:0 "수십 년에 걸친 헌신과 시련, 그리고 끊임없는 수련 끝에 당신은 자신의 기예에서 정점에 도달했습니다. 장년에 이른 진정한 대가는 자신의 궁극적인 소명을 깨달아야 합니다. 하지만 인생에서 진정한 대가의 경지에 오를 수 있는 분야는 하나뿐입니다. 현명하게 길을 선택하십시오."
+ pursue_mastery_decision_tooltip:0 "평생의 헌신을 선언하고 대가 특성을 획득합니다."
+ pursue_mastery_age_requirement:0 "40세 이상입니다"
+ pursue_mastery_decision_confirm:0 "내가 대가의 경지를 차지하리라"
+
+ # Decision Interface
+ PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON:0 "대가의 분야 선택"
+ master_learning_option:0 "학식의 대가 추구"
+ master_learning_option_tooltip:0 "영원한 지식 탐구에 헌신하여 진정한 깨달음을 얻고자 할 것입니다. 그 여정은 #HIGH 학식의 대가#! 특성을 부여합니다."
+ master_learning_option_not_has_perks:0 "학식 생활양식 특전이 최소 #HIGH 20#!개 없습니다"
+ master_intrigue_option:0 "계략의 대가 추구"
+ master_intrigue_option_tooltip:0 "기만과 비밀, 암중의 인맥을 무기로 삼아 그림자 속에서 활동하는 미묘한 기술을 통달하고 #HIGH 계략의 대가#! 특성을 얻습니다."
+ master_intrigue_option_not_has_perks:0 "계략 생활양식 특전이 최소 #HIGH 20#!개 없습니다"
+ master_diplomacy_option:0 "외교의 대가 추구"
+ master_diplomacy_option_tooltip:0 "궁정 예법과 국정 운영, 설득, 지도력을 익힙니다. 이러한 능력은 #HIGH 외교의 대가#! 특성을 부여합니다."
+ master_diplomacy_option_not_has_perks:0 "외교 생활양식 특전이 최소 #HIGH 20#!개 없습니다"
+ master_martial_option:0 "전쟁의 대가 추구"
+ master_martial_option_tooltip:0 "전략과 지략의 경지를 정복하고 전장의 분노와 혼돈을 다스려 #HIGH 전쟁의 대가#! 특성을 얻습니다."
+ master_martial_option_not_has_perks:0 "전쟁 생활양식 특전이 최소 #HIGH 20#!개 없습니다"
+ master_stewardship_option:0 "관리의 대가 추구"
+ master_stewardship_option_tooltip:0 "영지 관리를 자신의 기예로 삼아 금화와 교역이 원활히 흐르고 영지가 번영하도록 합니다. 이를 통해 #HIGH 관리의 대가#! 특성을 얻습니다."
+ master_stewardship_option_not_has_perks:0 "관리 생활양식 특전이 최소 #HIGH 20#!개 없습니다"
+ master_wandering_option:0 "방랑의 대가 추구"
+ master_wandering_option_tooltip:0 "먼 땅을 여행하며 이국의 문화와 장소를 경험하고, 군사적 기량과 세상에 대한 지식을 넓혀 #HIGH 방랑의 대가#! 특성을 얻습니다."
+ master_wandering_option_not_has_perks:0 "방랑 생활양식 특전이 최소 #HIGH 20#!개 없습니다"

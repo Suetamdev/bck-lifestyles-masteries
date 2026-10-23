@@ -1,0 +1,34 @@
+﻿pursue_mastery_age_requirement = {
+	global_not = pursue_mastery_age_requirement
+	first_not = pursue_mastery_age_requirement
+}
+
+master_learning_option_not_has_perks = {
+	global_not = master_learning_option_not_has_perks
+	first_not = master_learning_option_not_has_perks
+}
+
+master_intrigue_option_not_has_perks = {
+	global_not = master_intrigue_option_not_has_perks
+	first_not = master_intrigue_option_not_has_perks
+}
+
+master_diplomacy_option_not_has_perks = {
+	global_not = master_diplomacy_option_not_has_perks
+	first_not = master_diplomacy_option_not_has_perks
+}
+
+master_martial_option_not_has_perks = {
+	global_not = master_martial_option_not_has_perks
+	first_not = master_martial_option_not_has_perks
+}
+
+master_stewardship_option_not_has_perks = {
+	global_not = master_stewardship_option_not_has_perks
+	first_not = master_stewardship_option_not_has_perks
+}
+
+master_wandering_option_not_has_perks = {
+	global_not = master_wandering_option_not_has_perks
+	first_not = master_wandering_option_not_has_perks
+}

@@ -1,0 +1,207 @@
+﻿pursue_mastery_decision = {
+	ai_check_interval = 3650
+
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_misc.dds"
+	}
+
+	sort_order = 80
+
+	desc = pursue_mastery_decision_desc
+	selection_tooltip = pursue_mastery_decision_tooltip
+
+	cooldown = { days = 3650 }
+
+	# Decision is visible ONLY if you do not have any of the master traits already
+	is_shown = {
+		NOR = {
+			has_trait = master_learning
+			has_trait = master_intrigue
+			has_trait = master_diplomacy
+			has_trait = master_martial
+			has_trait = master_stewardship
+			has_trait = master_wandering
+		}
+	}
+
+	is_valid_showing_failures_only = {
+		custom_description = {
+			text = "pursue_mastery_age_requirement"
+			age >= 40
+		}
+	}
+
+	widget = {
+		gui = "decision_view_widget_option_list_generic"
+		controller = decision_option_list_controller
+		decision_to_second_step_button = "PURSUE_MASTERY_CHOOSE_FOCUS_BUTTON"
+		show_from_start = yes
+
+		item = {
+			value = master_learning_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_learning_option_not_has_perks"
+					learning_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_learning_option
+			localization = master_learning_option
+			icon = "gfx/interface/icons/court_position_types/court_tutor_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+
+		item = {
+			value = master_intrigue_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_intrigue_option_not_has_perks"
+					intrigue_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_intrigue_option
+			localization = master_intrigue_option
+			icon = "gfx/interface/icons/court_position_types/master_assassin_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+
+		item = {
+			value = master_diplomacy_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_diplomacy_option_not_has_perks"
+					diplomacy_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_diplomacy_option
+			localization = master_diplomacy_option
+			icon = "gfx/interface/icons/court_position_types/chronicler_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+
+		item = {
+			value = master_martial_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_martial_option_not_has_perks"
+					martial_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_martial_option
+			localization = master_martial_option
+			icon = "gfx/interface/icons/court_position_types/champion_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+
+		item = {
+			value = master_stewardship_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_stewardship_option_not_has_perks"
+					stewardship_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_stewardship_option
+			localization = master_stewardship_option
+			icon = "gfx/interface/icons/court_position_types/bookmaker_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+
+		item = {
+			value = master_wandering_option
+			is_shown = {
+				always = yes
+			}
+			is_valid = {
+				custom_description = {
+					text = "master_wandering_option_not_has_perks"
+					wanderer_lifestyle_perks >= 20
+				}
+			}
+			current_description = master_wandering_option
+			localization = master_wandering_option
+			icon = "gfx/interface/icons/court_position_types/court_poet_court_position.dds"
+			ai_chance = {
+				value = 10
+			}
+		}
+	}
+
+	effect = {
+		custom_tooltip = pursue_mastery_decision_tooltip
+
+		if = {
+			limit = { scope:master_learning_option = yes }
+			add_trait = master_learning
+		}
+		else_if = {
+			limit = { scope:master_intrigue_option = yes }
+			add_trait = master_intrigue
+		}
+		else_if = {
+			limit = { scope:master_diplomacy_option = yes }
+			add_trait = master_diplomacy
+		}
+		else_if = {
+			limit = { scope:master_martial_option = yes }
+			add_trait = master_martial
+		}
+		else_if = {
+			limit = { scope:master_stewardship_option = yes }
+			add_trait = master_stewardship
+		}
+		else_if = {
+			limit = { scope:master_wandering_option = yes }
+			add_trait = master_wandering
+		}
+	}
+
+	ai_potential = {
+		age >= 40
+		NOR = {
+			has_trait = master_learning
+			has_trait = master_intrigue
+			has_trait = master_diplomacy
+			has_trait = master_martial
+			has_trait = master_stewardship
+			has_trait = master_wandering
+		}
+		OR = {
+			learning_lifestyle_perks >= 20
+			intrigue_lifestyle_perks >= 20
+			diplomacy_lifestyle_perks >= 20
+			martial_lifestyle_perks >= 20
+			stewardship_lifestyle_perks >= 20
+			wanderer_lifestyle_perks >= 20
+		}
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}

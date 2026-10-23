@@ -1,0 +1,30 @@
+﻿l_french:
+ # Master of Learning
+ trait_master_learning:0 "Maître de l'érudition"
+ trait_master_learning_desc:0 "Un maître du savoir qui a passé sa vie à chercher la connaissance et a enfin atteint la véritable illumination. Il n'y a pas de fin à ce qui peut être appris dans ce monde."
+ trait_master_learning_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a passé toute sa vie à rechercher la connaissance et a enfin atteint la véritable illumination. Il n'y a pas de fin à ce qui peut être appris dans ce monde, et [ROOT.GetCharacter.GetFirstNameNoTooltip] ne cessera jamais sa quête du savoir."
+
+ # Master of Intrigue
+ trait_master_intrigue:0 "Maître de l'intrigue"
+ trait_master_intrigue_desc:0 "Un maître manipulateur qui comprend la valeur du secret, de la tromperie et de l'influence. Chaque problème peut être résolu en tirant sur la bonne ficelle ou en coupant le bon fil."
+ trait_master_intrigue_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est un maître de l'intrigue, manipulant ceux qui détiennent le pouvoir et influençant les fondements mêmes du royaume. Nobles comme roturiers prennent [ROOT.GetCharacter.GetHerHis] machinations pour la providence divine ou le jeu du destin."
+
+ # Master of Diplomacy
+ trait_master_diplomacy:0 "Maître de la diplomatie"
+ trait_master_diplomacy_desc:0 "Un maître diplomate qui a parcouru les salles de d'innombrables cours et côtoyé des gens de tous les horizons. Le monde entier s'ouvre à une telle personne."
+ trait_master_diplomacy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a visité d'innombrables cours et côtoyé des nobles, des paysans, des marchands et des monarques, tant au sein de son propre domaine qu'au-delà de [ROOT.GetCharacter.GetHerHis] royaume. Le monde entier s'ouvre à [ROOT.GetCharacter.GetFirstNameNoTooltip]."
+
+ # Master of Warfare
+ trait_master_martial:0 "Maître de la guerre"
+ trait_master_martial_desc:0 "Un vétéran de nombreuses batailles qui se sent chez lui sur le champ de bataille. La guerre est devenue familière comme un vieil ami, quelle que soit la durée de leur séparation."
+ trait_master_martial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a passé presque toute sa vie sur le champ de bataille. Pour [ROOT.GetCharacter.GetHerHim], la guerre est comme un vieil ami, et retourner au combat donne l'impression que [ROOT.GetCharacter.GetSheHe] n'est jamais [ROOT.GetCharacter.Custom('FR_Participe_Parti_E')]."
+
+ # Master of Stewardship
+ trait_master_stewardship:0 "Maître de l'intendance"
+ trait_master_stewardship_desc:0 "Un maître de la richesse et de l'administration qui voit des opportunités dans chaque pièce de monnaie. Sous une gestion aussi prudente, le trésor devient un fleuve d'or qui ne cesse jamais de couler."
+ trait_master_stewardship_character_desc:0 "Du prix d'un œuf à l'économie tout entière du royaume, [ROOT.GetCharacter.GetFirstNameNoTooltip] sait comment faire compter chaque pièce de monnaie. Sous [ROOT.GetCharacter.GetHerHis] gestion avisée, le trésor est devenu un fleuve d'or qui ne cesse de couler."
+
+ # Master of Wandering
+ trait_master_wandering:0 "Maître de l'errance"
+ trait_master_wandering_desc:0 "Un voyageur chevronné qui a arpenté des terres lointaines, appris de cultures étrangères et maîtrisé l'art du voyage. Chaque périple offre une nouvelle leçon, et chaque route mène à une autre découverte."
+ trait_master_wandering_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] a voyagé bien au-delà des frontières de [ROOT.GetCharacter.GetHerHis] patrie, tirant sa sagesse de terres lointaines et de leurs habitants. Aucune route n'est trop longue, aucune destination trop éloignée, et aucun voyage n'est dénué de sens."
