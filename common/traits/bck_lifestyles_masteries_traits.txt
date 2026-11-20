@@ -2,14 +2,14 @@
     category = lifestyle
     name = trait_master_learning
 
-    learning = 6
-    fertility = 0.2
-    life_expectancy = 10
-    health = 0.2
-    general_opinion = 20
-
+    learning = 8
+    health = 0.5
+    cultural_head_fascination_mult = 0.1
+    epidemic_resistance = 10
+    popular_opinion_add = 15
+        
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
@@ -30,14 +30,14 @@ master_intrigue = {
     category = lifestyle
     name = trait_master_intrigue
 
-    intrigue = 10
-    dread_baseline_add = 25
-    intimidated_vassal_tax_contribution_mult = 0.2
-    hostile_scheme_power_add = 20
-    general_opinion = 10
+    intrigue = 8
+    enemy_hostile_scheme_success_chance_add = -10
+    owned_hostile_scheme_success_chance_max_add = 15
+    dread_baseline_add = 15
+    popular_opinion_add = 15
 
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
@@ -59,13 +59,13 @@ master_diplomacy = {
     name = trait_master_diplomacy
 
     diplomacy = 8
-    diplomatic_range_mult = 2
-    opinion_of_different_faith_liege = 20
-    direct_vassal_opinion = 10
-    general_opinion = 15
+    diplomatic_range_mult = 1
+    monthly_prestige_gain_mult = 0.15
+    legitimacy_gain_mult = 0.15
+    popular_opinion_add = 15
 
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
@@ -86,14 +86,14 @@ master_martial = {
     category = lifestyle
     name = trait_master_martial
 
-    martial = 6
-    prowess = 10
-    monthly_war_income_mult = 0.25
-    knight_limit = 8
-    general_opinion = 20
+    martial = 8
+    prowess = 6
+    knight_limit = 5
+    knight_effectiveness_mult = 0.25
+    popular_opinion_add = 15
 
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
@@ -115,13 +115,13 @@ master_stewardship = {
     name = trait_master_stewardship
 
     stewardship = 8
-    monthly_income_mult = 0.2
-    vassal_tax_mult = 0.2
-    long_reign_bonus_mult = 0.4
-    general_opinion = 20
+    monthly_income_mult = 0.1
+    build_speed = -0.10
+    control_baseline_add = 5
+    popular_opinion_add = 15
 
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
@@ -144,14 +144,13 @@ master_wandering = {
 
     diplomacy = 4
     learning = 4
-    prowess = 5
     monthly_lifestyle_xp_gain_mult = 0.1
-    travel_speed = 0.25
-    travel_safety = 10
-    general_opinion = 15
+    character_travel_speed_mult = 0.15
+    character_travel_safety = 10
+    popular_opinion_add = 15
 
     minimum_age = 40
-    random_creation = 1
+    random_creation = 0
     ruler_designer_cost = 275
     shown_in_ruler_designer = yes
 
